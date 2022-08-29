@@ -1,3 +1,10 @@
+# Buscador-de-CEP-ReactJS
+[![wakatime](https://wakatime.com/badge/user/268de5b9-4dbd-4873-9ede-a165e5745754/project/f8b6dcbf-6994-4494-a2a1-8bde4340281d.svg)](https://wakatime.com/badge/user/268de5b9-4dbd-4873-9ede-a165e5745754/project/f8b6dcbf-6994-4494-a2a1-8bde4340281d)
+
+Neste projeto foram usados uma api de [CEP](https://viacep.com.br/) e uma [biblioteca de ícones](https://react-icons.github.io/react-icons/).
+
+[VISUALISE CLICANDO AQUI](buscador-de-cep-web-service-reactjs.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
